@@ -5,6 +5,8 @@
 ![Image](https://github.com/milennnna/smartmonsters/blob/master/Day2.png)
 ## Day 3
 ![Image](https://github.com/milennnna/smartmonsters/blob/master/Day3.png)
+## Day 4
+![Image](https://github.com/milennnna/smartmonsters/blob/master/Day4.png)
 ## Day 5
 ![Image](https://github.com/milennnna/smartmonsters/blob/master/Day5.png)
 ## Day 6
