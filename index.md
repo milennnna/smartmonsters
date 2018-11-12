@@ -19,8 +19,8 @@
 ![Image](https://github.com/milennnna/smartmonsters/blob/master/Day9.png)
 ## Day 10
 ![Image](https://github.com/milennnna/smartmonsters/blob/master/Day10.png)
-![Image](https://github.com/milennnna/smartmonsters/blob/master/Day101.png)
-![Image](https://github.com/milennnna/smartmonsters/blob/master/Day102.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/Day1001.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/Day1002.png)
 ## Day 11
 ![Image](https://github.com/milennnna/smartmonsters/blob/master/Day11.png)
 ## Day 12
