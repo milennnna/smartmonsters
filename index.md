@@ -28,6 +28,13 @@
 ## Day 13
 ![Image](https://github.com/milennnna/smartmonsters/blob/master/Day13.png)
 
+## Day 14
+![Image](https://github.com/milennnna/smartmonsters/blob/master/Day15.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/day15_02.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/day15_03.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/day15_04.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/day15_05.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/day15_06.png)
 
 
 
