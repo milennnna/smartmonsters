@@ -36,6 +36,11 @@
 ![Image](https://github.com/milennnna/smartmonsters/blob/master/day15_05.png)
 ![Image](https://github.com/milennnna/smartmonsters/blob/master/day15_06.png)
 
+## Day 15
+
+![Image](https://github.com/milennnna/smartmonsters/blob/master/day16_01.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/day16_02.png)
+
 
 
 
