@@ -43,16 +43,16 @@
 
 ## Day 16
 
-![Image](https://github.com/milennnna/smartmonsters/blob/master/day17_01.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/Day17_01.png)
 
 
 ## Day 17
 
-![Image](https://github.com/milennnna/smartmonsters/blob/master/day18_01.png)
-![Image](https://github.com/milennnna/smartmonsters/blob/master/day18_02.png)
-![Image](https://github.com/milennnna/smartmonsters/blob/master/day18_03.png)
-![Image](https://github.com/milennnna/smartmonsters/blob/master/day18_04.png)
-![Image](https://github.com/milennnna/smartmonsters/blob/master/day18_05.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/Day18_01.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/Day18_02.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/Day18_03.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/Day18_04.png)
+![Image](https://github.com/milennnna/smartmonsters/blob/master/Day18_05.png)
 
 
 
